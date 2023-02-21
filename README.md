@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;GitHub Analytics
 ![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
 
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:koreankdj98@gmail.com"><img src="https://img.shields.io/badge/-koreankdj98@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
