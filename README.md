@@ -1,6 +1,6 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome!&fontSize=50)
-
+</div>
 
 ## 👋 &nbsp; 안녕하세요! 김동진입니다 😎
 - 끊임없이 배우며 `겸손한 개발자`를 지향합니다.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Gold 🏅
+### Gold 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=koreankdj)](https://solved.ac/koreankdj)
 
 ### 💻 &nbsp;GitHub Analytics
