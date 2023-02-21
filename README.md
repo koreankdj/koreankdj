@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=koreankdj)](https://solved.ac/koreankdj)
 
 
-###![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
+![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
