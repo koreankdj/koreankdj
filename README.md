@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koreankdj)](https://solved.ac/koreankdj)
 ![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
