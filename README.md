@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome!&fontSize=50)
 
 
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 
 
 ![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
+</div>
