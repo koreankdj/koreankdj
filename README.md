@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👨‍💻welcome!&fontSize=50)
 
 
 ## 👋 &nbsp; 안녕하세요! 김동진입니다 😎
