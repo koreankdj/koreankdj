@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Gold 🏅
-<img src="https://i.ibb.co/WfkLNRQ/chrome-y-AXSQ9j-Z9t.png" alt="chrome-y-AXSQ9j-Z9t" border="0">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=koreankdj)](https://solved.ac/koreankdj)
 ![koreankdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreankdj&show_icons=true&theme=dracula)
