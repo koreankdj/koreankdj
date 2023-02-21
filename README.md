@@ -19,7 +19,7 @@
 
 
 
-### 🏅 Preparation for Algorithm Test
+### 🏅 Preparation for Algorithm Tests
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=koreankdj)](https://solved.ac/koreankdj)
 
 
